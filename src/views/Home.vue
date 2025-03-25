@@ -28,7 +28,7 @@
 
                         <div class="flex flex-col items-center">
                             <kinesis-element :strength="5">
-                                <Countdown labelColor="black" deadlineISO="2025-04-05 00:00:00" mainColor="#FF407D" />
+                                <Countdown labelColor="black" deadlineISO="2025-04-12 00:00:00" mainColor="#FF407D" />
                             </kinesis-element>
                         </div>
                     </div>
@@ -49,7 +49,7 @@
                         <div class="flex flex-col items-center">
 
 
-                            <Countdown labelColor="#ffffff" deadlineISO="2025-04-05 00:00:00" mainColor="#FF407D" />
+                            <Countdown labelColor="#ffffff" deadlineISO="2025-04-12 00:00:00" mainColor="#FF407D" />
 
                         </div>
                     </div>
